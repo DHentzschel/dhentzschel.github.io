@@ -1639,6 +1639,9 @@
 	a {
 		color: #fff;
 	}
+	normallink {
+		color: #000;
+	}
 
 		a:hover {
 			text-decoration: none;
